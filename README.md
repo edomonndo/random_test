@@ -100,7 +100,7 @@ UndirectedGraph.gen_edges(n, root = 0, min_value = 1, max_value = 10**9, is1inde
 ### 文字列(Stringクラス)
 
 #### 共通の変数
-$lw$: アルファベットの小文字26文字 
+$lw$: アルファベットの小文字26文字  
 $up$: アルファベットの大文字26文字
 
 #### 決められたパターンから文字列を作成する
